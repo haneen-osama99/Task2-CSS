@@ -1,0 +1,19 @@
+.Services{
+    text-align: center;
+
+}
+.Services-Items{
+float: left;
+width: 33.33%;
+text-align: center;
+}
+.clearfix{
+ clear: both;
+}
+.service-icon{
+    background-color: rgb(248 216 8 / 92%);
+    border-radius: 33px;
+    font-size: 35px;
+    padding: 14px;
+    color: white;
+}
